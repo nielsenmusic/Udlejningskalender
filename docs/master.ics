@@ -4,7 +4,7 @@ PRODID:-//RentalSyncAgent//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Master Rental Calendar
-X-WR-CALDESC:Auto-generated merged calendar. Last updated: 2026-04-18T07:58:30Z
+X-WR-CALDESC:Auto-generated merged calendar. Last updated: 2026-04-19T08:05:17Z
 BEGIN:VEVENT
 UID:1418fb94e984-ff7dae4749634286ec682c21fb7075a1@airbnb.com
 DTSTART;VALUE=DATE:20260501
