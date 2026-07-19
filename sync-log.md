@@ -807,3 +807,9 @@
    - Booked on **Airbnb** but NOT blocked on Booking.com: 2026-07-16 → 2026-07-18, 2026-07-20 → 2026-07-27, 2026-07-29 → 2026-08-01, 2026-08-03 → 2026-08-08
    Master calendar updated with all blocked dates.
 
+
+## 2026-07-19 09:03 UTC
+⚠️ **Sync discrepancy detected** — 1 issue(s) found:
+   - Booked on **Airbnb** but NOT blocked on Booking.com: 2026-07-16 → 2026-07-18, 2026-07-20 → 2026-07-27, 2026-07-29 → 2026-08-01, 2026-08-03 → 2026-08-08
+   Master calendar updated with all blocked dates.
+
