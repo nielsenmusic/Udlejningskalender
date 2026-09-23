@@ -4,11 +4,11 @@ PRODID:-//RentalSyncAgent//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Master Rental Calendar
-X-WR-CALDESC:Auto-generated merged calendar. Last updated: 2026-09-22T12:19:57Z
+X-WR-CALDESC:Auto-generated merged calendar. Last updated: 2026-09-23T12:31:54Z
 BEGIN:VEVENT
-UID:7f662ec65913-dee4e94f13a6011050e1cbf5da596a47@airbnb.com
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270923
+UID:7f662ec65913-e59f0fe3eba12ceb957acbcb511feff0@airbnb.com
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
 SUMMARY:Airbnb (Not available)
 DESCRIPTION:Synced from Airbnb by RentalSyncAgent
 END:VEVENT
