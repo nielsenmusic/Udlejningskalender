@@ -1419,3 +1419,9 @@
    - Booked on **Airbnb** but NOT blocked on Booking.com: 2027-10-28
    Master calendar updated with all blocked dates.
 
+
+## 2026-10-29 13:54 UTC
+⚠️ **Sync discrepancy detected** — 1 issue(s) found:
+   - Booked on **Airbnb** but NOT blocked on Booking.com: 2027-10-29
+   Master calendar updated with all blocked dates.
+
